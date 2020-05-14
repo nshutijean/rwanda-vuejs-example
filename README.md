@@ -1,4 +1,9 @@
-# salama
+## Rough implementation of locations in Rwanda using VueJs and rwanda package
+
+#### rwanda package: https://github.com/knowbee/rwanda
+#### The code is not the most beautiful, refractor it(recommended)
+
+![screenshot](./src/assets/loc.png)
 
 ## Project setup
 ```
