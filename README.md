@@ -1,4 +1,5 @@
-# salama
+# This is rough implementation of locations in Rwanda using VueJs
+# **The code is not the most beautiful, refractor it(recommended)**
 
 ## Project setup
 ```
