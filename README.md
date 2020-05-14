@@ -1,5 +1,7 @@
-# This is rough implementation of locations in Rwanda using VueJs
-# **The code is not the most beautiful, refractor it(recommended)**
+# Rough implementation of locations in Rwanda using VueJs and rwanda package
+
+### rwanda package: https://github.com/knowbee/rwanda
+### The code is not the most beautiful, refractor it(recommended)
 
 ## Project setup
 ```
